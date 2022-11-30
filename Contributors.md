@@ -23,6 +23,7 @@
 - [Lukas de VIPART](https://github.com/Rekch)
 - [Krunal Patel](https://github.com/kd05)
 - [al-imam](https://github.com/al-imam)
+- [Amogh Tarun@devsocPI](https://github.com/Am0gusTarun)
 - [Hasibur Rahman](https://github.com/hasiburdev)
 - [Melek Msakni](https://github.com/melekmsakni)
 - [Lakshan Perera](https://github.com/0xluckycode)
@@ -41,6 +42,7 @@
 - [Lesh Chadick](https://github.com/lesh2)
 - [Julian Schmid](https://github.com/KingNexu)
 - [Uras Varolgunes]
+- 
 - [Limoo Kiplimo](https://github.com/Limookiplimo)
 - [Arnav Joshi] (https://githuyb.com/TheOfficialAJ)
 - [Mohamed Abidar](https://github.com/abidarm)
@@ -198,7 +200,6 @@
 - [Bruno De Paula 🚀](https://github.com/Gr33nLight)
 - [Sudarsan Balaji](https://github.com/artfuldev)
 - [jatin kumar](https://github.com/jatin75757)
-- [Barnamoy Roy](https://github.com/Ed-Monkey)
 - [ahmad nawaz khan](https://github.com/4hmaad)
 - [Ishita Batra](https://github.com/ishita6)
 - [Devanshu Mahapatra](https://github.com/Devanshu-17)
